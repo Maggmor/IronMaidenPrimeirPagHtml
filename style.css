@@ -1,0 +1,312 @@
+header {
+	background: #FFFFFF;
+	padding: 30px 0;
+
+}
+
+
+h1 a:hover{
+	color: red;
+	text-decoration: underline;
+
+
+}
+
+.primeiro-titulo{
+	padding: 20px 0;
+	font-family: inherit;
+	font-style: normal;
+	color: blue;
+	padding-left:30px;	
+	font-size: 3em;
+	font-weight: bold;
+	
+}
+
+.imgeddie{
+	width: 100%;
+	margin-top: 1%;
+	
+
+	
+}
+
+.fundodaareadetexto1{
+	background: #FFFFFF
+	padding: 40px 0;
+
+	
+}
+
+
+.titulodoparagrafo{
+	text-align: center;
+	color: #000000;
+	font-size: 45px;
+	font-weight: bold;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-top: 4%;
+	text-decoration-color: whitesmoke;
+}
+
+.p1 {
+	font-size: 20px;
+	text-align: justify;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 3%;
+	color: #000000;
+
+}
+
+.p2 {
+	font-size: 20px;
+	text-align: justify;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 1%;
+	color: #000000;
+}
+
+.imgeddies{
+
+	object-position: center;
+	max-width: 940px;
+    height: auto;
+    margin-right: auto;%;
+	margin-left: 24%;
+	margin-top: 30px;
+	padding: 20px;
+
+}
+
+.fundodaareadetexto2{
+	background: #FFFFFF
+	padding: 40px 0;
+}
+
+.tituloparagrafo3{
+	text-align: center;
+	color: #000000;
+	font-size: 45px;
+	font-weight: bold;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-top: 7%;
+	text-decoration-color: whitesmoke;
+}
+
+
+.p3 {
+	font-size: 20px;
+	text-align: justify;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 3%;
+	color: #000000;
+
+	}
+
+.imgmaiden{
+	object-position: center;
+	max-width: 940px;
+    height: auto;
+    margin-right: auto;%;
+	margin-left: 24%;
+	margin-top: 30px;
+	padding: 20px;
+
+}
+
+
+.fundodiscografia {
+	width: 100%;
+	background: #F5F5F5;
+	padding: 20px 20px 20px 20px ;
+
+}
+
+
+.titulodicografia {
+	text-align: left;
+	color: whitesmoke;
+	font-size: 40px;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+
+
+.disco {
+	font-style: italic;
+	font-size:20px;
+	margin-left: 10%;
+	color: white;
+	margin-top: 3%;
+}
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 20%;
+	margin-top: 7%;
+}
+
+
+.imgdiscografia {
+	width: 650px;
+	margin-left: 50%;
+	margin-right: 5%;
+	margin-top: -60%;
+
+}
+
+
+h4 a:hover{
+	color: red;
+	text-decoration: underline;
+}
+
+
+
+ a {
+	text-decoration: none;
+}
+
+ li a:hover{
+ 	color: red;
+	text-decoration: underline;
+	font-size: 22px;
+
+ }
+
+
+@media screen and (max-width: 600px){
+	.primeiro-titulo {
+		text-align: center;
+		font-size: 2em;
+		padding: 10px 0;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.titulodoparagrafo{
+	padding: 10px 0;
+	text-align: center;
+	color: #000000;
+	font-size: 20px;
+	font-weight: bold;
+	margin-right: 1%;
+	margin-left: 1%;
+	margin-top: 5%;
+	text-decoration-color: whitesmoke;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.p1 {
+	padding: 10px 0;
+	font-size: 15px;
+	text-align: justify;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 3%;
+	color: #000000;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.p2 {
+	padding: 10px 0;
+	font-size: 15px;
+	text-align: justify;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 1%;
+	color: #000000;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.imgeddies{
+	padding: 10px 0;
+	width: 100%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 1%;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.tituloparagrafo3{
+	padding: 10px 0;
+	text-align: center;
+	color: #000000;
+	font-size: 25px;
+	font-weight: bold;
+	margin-right: 1%;
+	margin-left: 1%;
+	margin-top: 5%;
+	text-decoration-color: whitesmoke;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.p3 {
+	padding: 10px 0;
+	font-size: 15px;
+	text-align: justify;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 1%;
+	color: #000000;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.imgmaiden{
+	padding: 10px 0;
+	width: 100%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 1%;
+	}
+}
+
+
+@media screen and (max-width: 600px){
+	ul {
+	display: table-cell;
+	vertical-align: top;
+	padding: 10px 0;
+	width: 100%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 1%;
+	text-align: center;
+	}
+}
+
+
+@media screen and (max-width: 600px){
+	.disco {
+	padding: 10px 0;
+	font-style: italic;
+	font-size:20px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 3%;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.imgdiscografia{
+	padding: 10px 0;
+	width: 90%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 5%;
+	}
+}
